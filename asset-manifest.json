@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shaana-Hebamme/static/css/main.52dc1ae3.css",
+    "main.js": "/Shaana-Hebamme/static/js/main.5d7fa57d.js",
+    "static/js/787.bf83a5eb.chunk.js": "/Shaana-Hebamme/static/js/787.bf83a5eb.chunk.js",
+    "index.html": "/Shaana-Hebamme/index.html",
+    "main.52dc1ae3.css.map": "/Shaana-Hebamme/static/css/main.52dc1ae3.css.map",
+    "main.5d7fa57d.js.map": "/Shaana-Hebamme/static/js/main.5d7fa57d.js.map",
+    "787.bf83a5eb.chunk.js.map": "/Shaana-Hebamme/static/js/787.bf83a5eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52dc1ae3.css",
+    "static/js/main.5d7fa57d.js"
+  ]
+}
